@@ -1,0 +1,5 @@
+# For illustration purposes, not actively used.
+
+bucket = "terraform-tutorial-remote-backend-zakki"
+key    = "backends/prod/state.tfstate"
+region = "eu-west-1"
